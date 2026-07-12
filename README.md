@@ -8,6 +8,7 @@ My github.io page
 > **Journal:** *Comptes Rendus. Géoscience*, Volume 358 (2026), pp. 283-307.  
 > **DOI:** [10.5802/crgeos.335](https://doi.org/10.5802/crgeos.335)
 
+* [View the publication](https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.335/)
 * [View Source Code on GitHub](https://github.com/MatthieuNougaret/Predicting-geophysical-time-series-on-volcano-at-Piton-de-la-Fournaise)
 
 
