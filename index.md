@@ -16,7 +16,7 @@ Below you will find a list of my professional and personal projects. Click on an
     <li>
       <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a> — <em>{{ post.date | date: "%B %Y" }}</em>
     </li>
-  {% empty %}
+  {% else %}
     <li><em>No professional projects posted yet.</em></li>
   {% endfor %}
 </ul>
