@@ -2,6 +2,7 @@
 layout: default
 title: "Geophysical Time Series Forecasting at Piton de la Fournaise"
 date: 2026-05-12
+category: professional
 ---
 
 # Geophysical time series forecasting at the Piton de la Fournaise volcano by machine learning
