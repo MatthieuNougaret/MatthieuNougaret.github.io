@@ -25,4 +25,14 @@ Below you will find a list of my professional and personal projects. Click on an
 
 ## Personal Projects
 
-**Soon to come...**
+<ul>
+  {% assign personal_posts = site.posts | where: "category", "personal" %}
+  {% for post in personal_posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a> — <em>{{ post.date | date: "%B %Y" }}</em>
+    </li>
+  {% else %}
+    <li><em>No personal projects posted yet.</em></li>
+  {% endfor %}
+</ul>
+
