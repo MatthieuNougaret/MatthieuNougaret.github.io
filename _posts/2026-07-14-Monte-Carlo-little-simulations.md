@@ -23,5 +23,6 @@ A set of small Monte-Carlo use:
 ### Test it yourself:
 
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MatthieuNougaret/MonteCarloLittleSims/main?filepath=main.ipynb)
+* [Launch Instantly with JupyterLite (Browser Only)](https://MatthieuNougaret.github.io/MonteCarloLittleSims/)
 
 [Back to Home](/)
